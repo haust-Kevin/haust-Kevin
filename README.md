@@ -4,9 +4,10 @@
   <img src="assets/wangdingbang.png" alt="Wang Dingbang" />
 </h1>
 
-| <a href="https://github.com/haust-Kevin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haust-Kevin&layout=compact&theme=buefy&hide_border=true" /></a> |
-|---|
-
+ 
+ <a  href="https://github.com/haust-Kevin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haust-Kevin&layout=compact&theme=buefy&hide_border=true" /></a> 
+ 
+ 
 
  
 
@@ -28,7 +29,8 @@
 
 <h3>Programming Training Platform</h3>
 
-<a href="https://leetcode.cn/u/wangdingbang/"><img src="https://stats.justsong.cn/api/leetcode?username=wangdingbang&cn=true"></a> <a href="https://www.nowcoder.com/users/376227094"><img src="https://stats.justsong.cn/api/nowcoder?id=376227094"></a> 
+<a href="https://leetcode.cn/u/wangdingbang/"><img src="https://stats.justsong.cn/api/leetcode?username=wangdingbang&cn=true&theme=buefy"></a> <a href="https://www.nowcoder.com/users/376227094"><img src="https://stats.justsong.cn/api/nowcoder?id=376227094&theme=buefy"></a> 
   
+<h3>Github Profile</h3>
 
 ![Metrics](https://metrics.lecoq.io/haust-Kevin?template=classic&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Etc%2FGMT-8)
