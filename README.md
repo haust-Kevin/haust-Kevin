@@ -31,4 +31,4 @@
 <a href="https://leetcode.cn/u/wangdingbang/"><img src="https://stats.justsong.cn/api/leetcode?username=wangdingbang&cn=true"></a> <a href="https://www.nowcoder.com/users/376227094"><img src="https://stats.justsong.cn/api/nowcoder?id=376227094"></a> 
   
 
-![Metrics](https://metrics.lecoq.io/haust-Kevin?template=classic&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Etc%2FGMT-8)
+![Metrics](https://metrics.lecoq.io/haust-Kevin?template=classic&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Etc%2FGMT-8)
