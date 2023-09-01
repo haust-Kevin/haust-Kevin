@@ -27,10 +27,8 @@
 <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-35495e?style=flat&logo=vue.js" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-grey?style=flat&logo=Flask" />
 
-<h3>Programming Training Platform</h3>
-
-<a href="https://leetcode.cn/u/wangdingbang/"><img src="https://stats.justsong.cn/api/leetcode?username=wangdingbang&cn=true&theme=buefy"></a> <a href="https://www.nowcoder.com/users/376227094"><img src="https://stats.justsong.cn/api/nowcoder?id=376227094&theme=buefy"></a> 
+Home Page: [here](https://haust-kevin.github.io/blog/)
   
-<h3>Github Profile</h3>
+<!-- <h3>Github Profile</h3>
 
-![Metrics](https://metrics.lecoq.io/haust-Kevin?template=classic&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Etc%2FGMT-8)
+![Metrics](https://metrics.lecoq.io/haust-Kevin?template=classic&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Etc%2FGMT-8) -->
