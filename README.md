@@ -13,7 +13,7 @@
 
 <h3>Things I code with</h3>
 <p>
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-ffffff?style=flat&logo=rust&logoColor=black" />
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-white?style=flat&logo=rust&logoColor=black" />
 <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
 <img alt="Cpp" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
