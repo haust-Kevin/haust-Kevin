@@ -19,6 +19,7 @@
 <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
 <img alt="Python 3" src="https://img.shields.io/badge/-Python_3-f4d43a?style=flat&logo=python" />
 <img alt="Android" src="https://img.shields.io/badge/-Android-white?style=flat&logo=Android" /> 
+<img alt="HarmonyOS" src="https://img.shields.io/badge/-HarmonyOS-35495e?style=flat&logo=harmonyos&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1d608f?style=flat&logo=MySQL&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-ea2845?style=flat&logo=redis&logoColor=white" />
 <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
